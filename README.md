@@ -1,34 +1,34 @@
-# 🏥 Hospital Patient Analytics Dashboard — Power BI PR 2
+# 🏥 Hospital Patient Analytics Dashboard
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
-![Institute](https://img.shields.io/badge/Institute-Red%20%26%20White%20Skill%20Education-red?style=for-the-badge)
+<div align="center">
+ 
+![Subject](https://img.shields.io/badge/📘-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Dataset](https://img.shields.io/badge/🗄️-Kaggle%20Healthcare%20Dataset-blue?style=flat-square&logo=kaggle&logoColor=white)
+![Marks](https://img.shields.io/badge/🎯%20Marks-10-brightgreen?style=flat-square)
+![Pages](https://img.shields.io/badge/📄%20Report%20Pages-3-purple?style=flat-square)
+
+</div>
 
 ---
 
-## 📌 Project Overview
+## 🗂️ Project Overview
 
-| Field | Detail |
-|-------|--------|
-| **Institute** | Red & White Skill Education |
-| **Subject** | Power BI |
-| **Project** | Practical Report 2 (PR 2) |
-| **Total Marks** | 10 |
-| **Dataset** | Healthcare Dataset — Patient Hospital Records (Kaggle) |
-| **Skill Focus** | Power Query: Storage Modes · Data Profiling · Text, Number & Date Tools · Conditional Columns · Group By · Pivot & Unpivot · Merge · Append · Parameters |
+> 🏥 This project performs end-to-end healthcare data analytics using **Power BI Desktop** on a real-world styled dataset of **55,500 patient hospital records** sourced from Kaggle. The entire data pipeline — from raw CSV ingestion to a fully interactive 3-page dashboard — is built using **Power Query (M Language)** with zero manual edits outside the tool.
+
+> 📌 The project covers critical data engineering skills: cleaning messy patient names, fixing negative billing amounts, extracting date components, building conditional classification columns, summarising data with Group By, reshaping tables with Pivot & Unpivot, enriching records via Merge, combining splits via Append, and controlling filters dynamically through Parameters — all documented step-by-step.
 
 ---
 
 ## 📊 Dashboard Preview
 
-![Dashboard](D:\Power%20BI\pr2\Screenshots\Dashboard.png)
+<img width="1302" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/58469cda-112a-4457-8475-3eb252c9ff17" />
+
 
 ---
 
 ## 📁 Dataset
 
-| Field | Detail |
+| 🏷️Field | 📋Detail |
 |-------|--------|
 | **Dataset Name** | Healthcare Dataset |
 | **Author** | Prasad Patil (prasad22) on Kaggle |
@@ -188,7 +188,6 @@ All visuals formatted with bold 12pt titles, Red `#CC0000` primary bars, aligned
 ## 🧰 Tools Used
 
 - **Power BI Desktop** — Data modeling, Power Query transformations, DAX, report building
-- **Microsoft Excel** — Dataset preparation and lookup table creation
 - **Power Query (M Language)** — All data transformations and custom columns
 - **Kaggle** — Source dataset ([Healthcare Dataset by Prasad Patil](https://www.kaggle.com/datasets/prasad22/healthcare-dataset))
 
@@ -221,12 +220,7 @@ All visuals formatted with bold 12pt titles, Red `#CC0000` primary bars, aligned
 
 <div align="center">
 
-## 👨‍💻 Author
-
-### 🎓 RENSEE GAJIPARA
-
-![Author](https://img.shields.io/badge/Student-Rensee%20Gajipara-blueviolet?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Institute](https://img.shields.io/badge/Red%20%26%20White-Skill%20Education-red?style=for-the-badge)
-![Subject](https://img.shields.io/badge/Power%20BI-Practical%20Report%202-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/👨‍💻%20Author-Rensee%20Gajipara-F2C811?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓%20Institute-Red%20%26%20White%20Skill%20Education-red?style=for-the-badge" />
 
 </div>
