@@ -193,12 +193,6 @@ All visuals formatted with bold 12pt titles, Red `#CC0000` primary bars, aligned
 
 ---
 
-## 📹 Video Walkthrough
-
-> 🎥 _Video link to be added here (Google Drive / YouTube Unlisted)_
-
----
-
 ## 📂 Repository Structure
 
 ```
